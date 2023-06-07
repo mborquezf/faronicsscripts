@@ -1,1 +1,1 @@
-Rename-Computer -NewName fpinochet-nb-fdp 
+Rename-Computer -NewName supervisorop-nb-fpv
